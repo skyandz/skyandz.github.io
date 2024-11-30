@@ -1,7 +1,9 @@
 # skyandz.github.io
 
-- pattralada
-	- aomsin
+- Pattralada Pobteepheung
+ - Aomsin
+ - 6530200754
+   
 
 
 ![profile](img/IMG_3235.jpeg)
