@@ -4,7 +4,7 @@
 	- aomsin
 
 
-![profile](img/pic.jpg)
+![profile](img/IMG_3235.jpeg)
 
 
 [DIGITAL-SIGNATURE](digital-signature)
