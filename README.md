@@ -2,3 +2,4 @@
 
 - pattralada
 	- aomsin
+![profile](img/pic.jpg)
