@@ -23,4 +23,4 @@
 
 ---
 
-# 🔗👤 [PARTNER](https://penpicha31.github.io): Penpicha
+# [PARTNER](https://penpicha31.github.io): Penpicha
