@@ -6,7 +6,7 @@
    
 
 
-![profile](img/IMG_3235.jpeg)
+![profile](img/pic.jpg)
 
 
 [DIGITAL-SIGNATURE](digital-signature)
