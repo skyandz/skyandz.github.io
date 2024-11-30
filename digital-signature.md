@@ -1,4 +1,4 @@
-# KEYWORD: Digital Signature
+# Digital Signature
 
 - **1st source: CISSP Glossary**
    - **Definition:** Provide authentication of a sender and integrity of a sender’s message and non-repudiation services.
