@@ -1,12 +1,12 @@
 # skyandz.github.io
 
 - Pattralada Pobteepheung
- - Aomsin
- - 6530200754
+  - Aomsin
+  - 6530200754
    
 
 
-![profile](img/pic.jpg)
+![profile](img/IMG_3235.jpeg)
 
 
 [DIGITAL-SIGNATURE](digital-signature)
