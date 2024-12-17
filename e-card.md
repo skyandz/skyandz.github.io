@@ -1,3 +1,3 @@
-# E-Card Merry Chrismas and Happy New year 2025
+# E-Card Christmas & New Year 2025
 ![e-card](img/card.png)
 # Tool for hiding message: [Steganography Online](https://stylesuxx.github.io/steganography/)
