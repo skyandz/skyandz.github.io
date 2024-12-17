@@ -9,6 +9,5 @@
 ![profile](img/IMG_3235.jpeg)
 
 
-#Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
-
-#E-Card: [E-CARD](e-card)
+# Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
+# E-Card: [E-CARD](e-card)
