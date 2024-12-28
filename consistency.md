@@ -1,7 +1,7 @@
-Topic: 
-Definition: 
-Source:
-Meaning by ChatGPT: 
-Meaning by Gemini: 
-My Summary: 
-Sample: 
+# Topic: 
+# Definition: 
+# Source:
+# Meaning by ChatGPT: 
+# Meaning by Gemini: 
+# My Summary: 
+# Sample: 
