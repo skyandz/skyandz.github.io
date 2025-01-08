@@ -15,7 +15,7 @@
 
 [![Video](img/b-vid.jpeg)]()
 
-# Team members
+# Team Members
 
 1. [Kemikha Chan-Ngam]()
 2. [Panisara Wijar]()
