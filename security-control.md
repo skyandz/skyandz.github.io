@@ -1,2 +1,2 @@
-[pic](img/SecurityControl.jpeg)
+![pic](img/SecurityControl.jpeg)
  
