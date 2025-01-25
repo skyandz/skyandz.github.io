@@ -1,4 +1,4 @@
-# Security Control
+# 🔗 Security Control
 
 ## เครื่องสแกนคีย์การ์ดเข้าหอพัก
 **สถานที่:** หอพัก
