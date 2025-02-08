@@ -10,4 +10,4 @@ Verify that if OTP or multi-factor authentication factors are lost, that evidenc
 
 ---
 
-# Partner: [Penpicha Priwan](https://penpicha31.github.io/digital-signature)
+# Partner: [Penpicha Priwan](https://penpicha31.github.io/security-requirement)
